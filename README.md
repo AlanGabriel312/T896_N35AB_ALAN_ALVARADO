@@ -1,13 +1,21 @@
 Projeto de Processamento Digital de Imagens (PDI)
-Este repositório contém os arquivos desenvolvidos durante as atividades e avaliações da disciplina Processamento Digital de Imagens (PDI).
+Este repositório contém os projetos desenvolvidos na disciplina de Processamento Digital de Imagens (PDI). Nele são aplicadas técnicas modernas de visão computacional, reconhecimento de padrões e inteligência artificial.
 
-Estrutura do Repositório
-AV2/ – Contém todos os arquivos, códigos e materiais referentes à Avaliação 2 (AV2) da disciplina.
 
-AV3/ – Contém os arquivos, códigos, imagens, modelos e relatórios desenvolvidos para a Avaliação 3 (AV3).
+AV2/   -> Arquivos, códigos e materiais desenvolvidos na Avaliação 2 (AV2)
+AV3/   -> Códigos, imagens, modelos treinados, relatórios e demais materiais da Avaliação 3 (AV3)
+Objetivo do Projeto
+O objetivo deste projeto é aplicar conceitos de Processamento Digital de Imagens, através de técnicas como:
 
-Objetivo
-O objetivo deste repositório é reunir os projetos desenvolvidos na disciplina, aplicando técnicas de visão computacional, processamento de imagens e inteligência artificial (YOLO), em projetos práticos que envolvem desde detecção de objetos até análise de características visuais, como contagem, identificação e avaliação do estado de moedas.
+Detecção de objetos com YOLO
+
+Transformada de Hough para detecção de círculos
+
+Análise de textura e brilho
+
+Simulação e verificação do estado físico das moedas
+
+Com essas abordagens, o projeto realiza a detecção, classificação, contagem e análise de moedas do Real.
 
 Tecnologias Utilizadas
 Python
